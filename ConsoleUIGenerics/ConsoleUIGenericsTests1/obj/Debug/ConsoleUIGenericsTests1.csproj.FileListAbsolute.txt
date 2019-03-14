@@ -1,0 +1,9 @@
+D:\ConsoleApps\ConsoleUIGenerics\ConsoleUIGenericsTests1\bin\Debug\ConsoleUIGenericsTests1.dll
+D:\ConsoleApps\ConsoleUIGenerics\ConsoleUIGenericsTests1\bin\Debug\ConsoleUIGenericsTests1.pdb
+D:\ConsoleApps\ConsoleUIGenerics\ConsoleUIGenericsTests1\bin\Debug\ConsoleUIGenerics.exe
+D:\ConsoleApps\ConsoleUIGenerics\ConsoleUIGenericsTests1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\ConsoleApps\ConsoleUIGenerics\ConsoleUIGenericsTests1\bin\Debug\ConsoleUIGenerics.pdb
+D:\ConsoleApps\ConsoleUIGenerics\ConsoleUIGenericsTests1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\ConsoleApps\ConsoleUIGenerics\ConsoleUIGenericsTests1\obj\Debug\ConsoleUIGenericsTests1.csprojResolveAssemblyReference.cache
+D:\ConsoleApps\ConsoleUIGenerics\ConsoleUIGenericsTests1\obj\Debug\ConsoleUIGenericsTests1.dll
+D:\ConsoleApps\ConsoleUIGenerics\ConsoleUIGenericsTests1\obj\Debug\ConsoleUIGenericsTests1.pdb

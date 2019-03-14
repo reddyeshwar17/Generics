@@ -1,0 +1,5 @@
+D:\ConsoleApps\ConsoleUIGenerics\ConsoleUIGenerics\bin\Debug\ConsoleUIGenerics.exe.config
+D:\ConsoleApps\ConsoleUIGenerics\ConsoleUIGenerics\bin\Debug\ConsoleUIGenerics.exe
+D:\ConsoleApps\ConsoleUIGenerics\ConsoleUIGenerics\bin\Debug\ConsoleUIGenerics.pdb
+D:\ConsoleApps\ConsoleUIGenerics\ConsoleUIGenerics\obj\Debug\ConsoleUIGenerics.exe
+D:\ConsoleApps\ConsoleUIGenerics\ConsoleUIGenerics\obj\Debug\ConsoleUIGenerics.pdb
